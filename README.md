@@ -2,6 +2,11 @@ Analytical Report: Sales and Marketing Performance Analysis:
 Introduction
 This report presents key insights and conclusions derived from the data analysis visualized in the Power BI dashboard. The focus areas include sales trends, marketing campaign effectiveness, branch and salesperson performance, customer segmentation, and product profitability.
 
+Download the Dashboard
+You can download the `.pbix` file here:  
+[Click here to download the Power BI file]([https://drive.google.com/your-sharing-link](https://drive.google.com/file/d/1-hNMFaTwT5Fe3jSsZ35YvyExTMY3kK4-/view?usp=drive_link))
+
+
 Key Findings and Conclusions
 1. Sales Growth Over Time
 Noticeable increase in total sales over certain periods.
