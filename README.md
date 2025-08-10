@@ -1,10 +1,17 @@
-Analytical Report: Sales and Marketing Performance Analysis:
+<img width="755" height="422" alt="image" src="https://github.com/user-attachments/assets/a9da93df-e6ab-4b63-82f7-c43a4a09d94f" />Analytical Report: Sales and Marketing Performance Analysis:
 Introduction
 This report presents key insights and conclusions derived from the data analysis visualized in the Power BI dashboard. The focus areas include sales trends, marketing campaign effectiveness, branch and salesperson performance, customer segmentation, and product profitability.
 
 Download the Dashboard
 You can download the `.pbix` file here:  
  Click here to download the Power BI file: (https://drive.google.com/file/d/1-hNMFaTwT5Fe3jSsZ35YvyExTMY3kK4-/view?usp=drive_link))
+
+<img width="1185" height="668" alt="Screenshot 2025-07-24 180344" src="https://github.com/user-attachments/assets/c182a295-6598-4878-8191-69cad37c0b35" />
+
+
+
+
+ 
 
 
 Key Findings and Conclusions
